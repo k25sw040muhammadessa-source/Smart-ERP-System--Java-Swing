@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/app/Main.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/dao/impl/CustomerDAOImpl.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/dao/PurchaseDAO.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/dao/UserDAO.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/model/SalesOrder.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/report/SalesReportService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/service/LookupService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/ui/components/RoundedTextField.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/ui/dashboard/DashboardModels.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/ui/screens/panels/PendingRequestsPanel.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/ui/screens/LoginFrame.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/ui/PermissionManagementPanel.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/erp/AppMain.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/Smart%20ERP%20System/src/javaapplication1/resources/schema.sql</file>
+        </group>
+    </open-files>
+</project-private>
